@@ -15,7 +15,9 @@ de Java Script para el manejo de variables , procesos y memoria en el contexto d
 
 |No.|Descripcion|Potenciador|Estatus|
 |---|---|---|---|
-|1.|Declaracion de variable|1|En Progreso|
+|1.|Declaracion de variable|6|En Progreso|
+|2.|Tipos de datos|9|En Progreso|
+|3.|Funciones|9|En Progreso|
 
 
 
