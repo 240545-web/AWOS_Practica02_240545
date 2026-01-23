@@ -32,8 +32,8 @@ saludarUsuario("Emigdio", "H");
 console.log("nombreUsuario = Ester, generoUsuario= M ")
 saludarUsuario("Ester", "M");
 //Test 3: 
-console.log("nombreUsuario = Ale , generoUsuario= null ")
-saludarUsuario("Ale", null);
+console.log("nombreUsuario = Alejandra , generoUsuario= null ")
+saludarUsuario("Alejandra", null);
 
 // 3. Funciones que retornan un valor pero que no reciben parámetros (datos de entrada)
 
