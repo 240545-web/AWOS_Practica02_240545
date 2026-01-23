@@ -37,6 +37,7 @@ saludarUsuario("Alejandra", null);
 
 // 3. Funciones que retornan un valor pero que no reciben parámetros (datos de entrada)
 
+
 function fechaActual()
 {
     const fecha= new Date()   //milisegundos
